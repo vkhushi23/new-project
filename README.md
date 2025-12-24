@@ -1,2 +1,4 @@
-# new-project
-i lean new think 
+# new-project 
+I am start AI bases project
+
+
