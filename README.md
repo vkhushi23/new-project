@@ -7,17 +7,17 @@ touble of python
 
 <br>
 this code of python<br>
-a = int(input("Enter a frist number :"))
-b = int(input("Enter a second number :"))
-c = int(input("Enter a third number :"))
-d = int(input("Enter a fourth number :"))
+a = int(input("Enter a frist number :"))<br>
+b = int(input("Enter a second number :"))<br>
+c = int(input("Enter a third number :"))<br>
+d = int(input("Enter a fourth number :"))<br>
 
-if(a > b and a > c and a > d):
-    print(a, "is the greatest number")
-elif(b > a and b > c and b > d):
-    print(b, "is the greatest number")
-elif(c > a and c > b and c > d):
-    print(c, "is the greatest number")
-else:
-    print(d, "is the greatest number")
+if(a > b and a > c and a > d):<br>
+    print(a, "is the greatest number<br>
+elif(b > a and b > c and b > d):<br>
+    print(b, "is the greatest number")<br>
+elif(c > a and c > b and c > d):<br>
+    print(c, "is the greatest number")<br>
+else:<br>
+    print(d, "is the greatest number")<br>
 
