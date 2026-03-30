@@ -5,6 +5,8 @@ i konw alot of thinks <BR>
 TODAY i learn list if python<br> 
 touble of python<br>
 this the bset think in code o write <br>
+i want add new think to better opation for project
+
 
 
 <br>
